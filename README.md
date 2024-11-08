@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/0ca3f370-6177-4bb4-8f5d-740e2b90409e)# Transfer-learning-using-ResNet-for-Arabic-Alphabet-Sign-Language
+# Transfer-learning-using-ResNet-for-Arabic-Alphabet-Sign-Language
 Transfer learning using ResNet for Arabic Alphabet Sign Language
 
 Using ResNet50V2 as a pre-trained model
